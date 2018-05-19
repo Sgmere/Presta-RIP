@@ -8,4 +8,8 @@
 
     class Yolo
     {
+        private $id;
+        private $nom;
     }
+
+    ?>
